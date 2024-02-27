@@ -1,0 +1,35 @@
+Create folder "15"
+Inside folder "15" create folder restservice
+Inside folder "15" create folder reactprogram
+
+
+//For REST Service
+Open VS Code
+Goto file->open folder "15", open "restservice" folder and select folder "restservice"
+Open terminal and execute:
+//In College Proxy: npm config set proxy http://10.2.0.25:3128
+Run npm init -y
+Run npm install express
+Run npm install mongodb@4.1.0
+Run npm install cors
+Run npm install multer
+
+Click new file in the explorer window
+Name the file as index.js
+Type the code from index.js file
+
+Open webbrowser and check url :
+http://localhost:8080/retrieve
+
+//For React Display
+Open VS Code
+Goto file->open folder "15", open "retrievedata" folder and select folder "retrievedata"
+npm install -g create-react-app
+npx create-react-app . //make sure folder 10 is empty
+
+wait till installation completes and subfolders and files are created
+Open src and open App.js file
+Remove all statements from App.js file
+Type the code from App.js file
+npm start
+

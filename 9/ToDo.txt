@@ -1,0 +1,26 @@
+Create folder "9"
+Open VS Code
+Goto file->open folder "9" and select folder "9"
+
+Open terminal and execute:
+//In College Proxy: npm config set proxy http://10.2.0.25:3128
+Run npm init -y
+Run npm install express ejs
+
+Click new file in the explorer window
+Name the file as index.js
+Type the code from index.js file
+
+create views folder
+Name the file as memo.ejs
+Type the code from memo.ejs
+
+Goto Terminal->New Terminal
+In the terminal run node index.js
+Open webbrowser and type url :
+http://localhost:8080/
+
+
+
+
+

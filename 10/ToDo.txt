@@ -1,0 +1,21 @@
+Create folder "10"
+Open VS Code
+Goto file->open folder "10" and select folder "10"
+
+Open terminal and execute:
+//In College Proxy: npm config set proxy http://10.2.0.25:3128
+
+npm install -g create-react-app
+npx create-react-app . //make sure folder 10 is empty
+npm start
+
+wait till installation completes and subfolders and files are created
+Open src and open App.js file
+Remove all statements except the first div statement and last div statement from App function inside return function
+Save the App.js file and Reload the page in the web browser
+Type the code from App.js file
+
+
+
+
+

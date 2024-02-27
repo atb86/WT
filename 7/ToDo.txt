@@ -1,0 +1,10 @@
+Create folder "7" 
+Open VS Code
+Goto file->open folder "7" and select folder "7"
+Click new file in the explorer window
+Name the file as index.js
+Type the code
+Goto Terminal->New Terminal
+In the terminal type node index.js and enter
+Open webbrowser and type url localhost:8080
+

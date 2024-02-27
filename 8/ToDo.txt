@@ -1,0 +1,31 @@
+Create folder "8"
+Open VS Code
+Goto file->open folder "8" and select folder "8"
+
+Open terminal and execute:
+//In College Proxy: npm config set proxy http://10.2.0.25:3128
+Run npm init -y
+Run npm install express
+
+Click new file in the explorer window
+Name the file as index.js
+Type the code from index.js file
+create Routes folder
+
+Name the file as login.js
+Type the code from login.js
+Name the file as signup.js
+Type the code from signup.js
+
+Goto Terminal->New Terminal
+In the terminal run node index.js
+Open webbrowser and type url :
+http://localhost:8080/
+http://localhost:8080/Signup
+http://localhost:8080/Login
+http://localhost:8080/display/nameabc/pwdabcd
+
+
+
+
+
